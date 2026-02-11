@@ -15,7 +15,8 @@ environment:
   flutter: ">=3.29.0"
 
 dependencies:
-  alice: ^1.0.0
+  alice:
+    path: ../alice
   dio: ^5.8.0+1
   flutter:
     sdk: flutter
